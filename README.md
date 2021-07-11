@@ -4,6 +4,12 @@ The complete deployment design is categorised into two parts:
 * Version Release Design
 * Production run Design
 
+Tools List
+----------
+
+![image](https://user-images.githubusercontent.com/13486101/125206173-5fd0d400-e2a3-11eb-8c1a-fd5966bcf917.png)
+
+
 Design proposal for Version Release
 -----------------------------------
 
@@ -41,4 +47,3 @@ Oozie Sample:
 
 
 ![image](https://user-images.githubusercontent.com/13486101/125205826-c9e87980-e2a1-11eb-8757-aeee49f205d3.png)
-
