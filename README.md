@@ -7,7 +7,7 @@ The complete deployment design is categorised into two parts:
 Tools List
 ----------
 
-![image](https://user-images.githubusercontent.com/13486101/125206173-5fd0d400-e2a3-11eb-8c1a-fd5966bcf917.png)
+![image](https://user-images.githubusercontent.com/13486101/125206415-d1f5e880-e2a4-11eb-8d3d-45f09325c1d3.png)
 
 
 Design proposal for Version Release
