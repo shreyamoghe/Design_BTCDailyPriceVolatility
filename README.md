@@ -1,8 +1,8 @@
 # Design_BTCDailyPriceVolatility
 
 The complete deployment design is categorised into two parts:
-* Design Version Release
-* Design Production run
+* Version Release Design
+* Production run Design
 
 Design proposal for Version Release
 -----------------------------------
