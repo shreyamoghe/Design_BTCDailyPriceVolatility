@@ -9,9 +9,9 @@ Version Release Steps:
 ----------------------
 1. Code written is pushed to GitHub.
 2. We deploy using Jenkins that takes the following paramters:
-       Git Repository URL
-       Source and target branch
-       Release version, next version and tag
+     - Git Repository URL
+     - Source and target branch
+     - Release version, next version and tag
 3. The project bundle is then stored to nexus repository
 
 
